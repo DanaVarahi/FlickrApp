@@ -6,7 +6,7 @@ Express is a lightweight server that is very easy to set up. The back end hides 
 
 ## Installation
 
-First clone this project. To run this app you will need to install the following dependencies:
+First clone this project. To run this app you will need to install the following dependencies in the aplication root folder:
 ```
  sudo apt update
  sudo apt install nodejs
